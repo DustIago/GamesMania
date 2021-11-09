@@ -4,12 +4,12 @@ body {background-color: black;
 
 a:hover{border-bottom: white 2px solid;}
 
-#Logo {width: 40%;position: absolute;left: 16cm;}
-.Menu .aa {width: 1cm;height: 1cm;position: relative;float: inline-start;left: -0.67cm;top: 2cm;
+#Logo {width: 50%;position: absolute;left: 26%;justify-content: center;}
+.Menu .aa {width: 2%;height: 2%;position: relative;float: inline-start;left: -0.67%;top: 2cm;
 }
-.Contas .bb {width: 2cm;height: 2cm; position: relative;left: 46.2cm;
+.Contas .bb {width: 4%;height: 2%; position: relative;left: 91.72%;
 }
-#sign {text-decoration: none;color: white;position: relative;left: 43.2cm;top: 1.5cm;
+#sign {text-decoration: none;color: white;position: relative;left: 85%;top: 1.5cm;
 }
 
 .Linhas #linha1 {top: 12cm;position: relative;color: white;height: 5px;
@@ -17,11 +17,13 @@ a:hover{border-bottom: white 2px solid;}
 .Linhas #Linha2 {position: relative;top: 22cm;color: white;height: 5px;
 }
 
-.Loja #Lojinha {color: white;width: 5cm;height: 2cm;left: 26cm;position: relative;top: 11cm;text-decoration: none;text-transform: uppercase;font-family: Arial, Helvetica, sans-serif;
+.Loja #Lojinha {color: white;width: 5%;height: 2%;left: 51%;position: relative;top: 11cm;text-decoration: none;text-transform: uppercase;font-family: Arial, Helvetica, sans-serif;
 }
-.cc {width: 11cm;height: 5cm;position: relative;top: 13cm;left: 7cm;margin: 1cm;color: white;
+.cc {width: 22%;height: 22%;position: relative;top: 9cm;left: 7cm;margin: 1cm;color: white;
 }
 .Loja .c {text-decoration: none;color: white;position: relative;top: 21.2cm;left: 7.6cm;margin: 4.8cm;width: 11%;display: inline;text-transform: uppercase;font-family: Arial, Helvetica, sans-serif;align-content: center;
+}
+#mouse {width: 15%;height: 22%;
 }
 
 
