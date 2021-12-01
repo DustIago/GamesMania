@@ -25,7 +25,7 @@ a:hover {
 
 .Comp .d {
     position: relative;
-    top: -11.6cm;
+    top: -6.3cm;
     margin: 2cm;
     right: 12cm;
     color: white;
@@ -58,11 +58,11 @@ a:hover {
 
 .carousel-inner .carousel-item {box-shadow: 2px 2px 4px black;
 overflow: hidden;
-height: 20cm;
-width: 50%;
+height: 500px;
+width: 500px;
 position: relative;
-left: 13cm;
-top: 5cm;
+left: 19cm;
+top: 3cm;
 }
 .container {
     display: flex;
