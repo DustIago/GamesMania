@@ -1,0 +1,204 @@
+
+body {
+    background-color: black;
+}
+
+a:hover{
+    border-bottom: white 1px solid;
+}
+
+#Logo {
+    width: 50%;
+    position: absolute;
+    left: 26%;
+    justify-content: center;}
+.Menu .aa {
+    width: 2%;
+    height: 2%;
+    position: relative;
+    float: inline-start;
+    left: -0.67%;
+    top: 2cm;
+}
+.Contas .bb {
+    width: 4%;
+    height: 2%;
+    position: relative;
+    left: 91.72%;
+}
+#sign {
+    text-decoration: none;
+    color: white;
+    position: relative;
+    left: 85%;
+    top: 1.5cm;
+}
+
+.Linhas #linha1 {
+    top: 12cm;
+    position: relative;
+    color: white;
+    height: 5px;
+}
+.Linhas #Linha2 {
+    position: relative;
+    top: 22cm;
+    color: white;
+    height: 5px;
+}
+
+.Loja #Lojinha {
+    color: white;
+    width: 5%;
+    height: 2%;
+    left: 51%;
+    position: relative;
+    top: 11cm;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.l .cc {
+    width: 22%;
+    height: 22%;
+    position: relative;
+    top: 12cm;
+    left: 7cm;
+    margin: 1cm;
+    color: white;
+}
+.l #peri {
+    width: 18.6%;
+    height: 2%;
+    position: relative;
+    left: 15%;
+    top: 12c;
+}
+.Loja .c {
+    text-decoration: none;
+    color: white;
+    position: relative;
+    top: 22cm;
+    left: 14.9%;
+    margin: 4.8cm;
+    width: 11%;
+    display: inline;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    align-content: center;
+}
+
+.Loja #Mais {
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: 24cm;
+    left: -26.6%;
+}
+.pp .v {
+    position: relative;
+    top: 14cm;
+    margin: 2cm;
+    width: 22%;
+    height: 22%;
+    left: 7%;
+    text-decoration: none;
+}
+.pp #G {
+    width: 18.4%;
+    height: 20%;
+}
+ 
+footer {
+    background-color: gray;
+    margin-top: 20cm;
+    height: 6cm;
+    display: flex;
+    justify-content: center;
+}
+.Elementos {
+    display: inline;
+    align-content: center;
+    position: relative;
+    top: cm;
+    margin: 8px;
+    color: blueviolet;
+}
+footer img {
+    width: 40px;
+    align-content: center;
+    height: 40px;
+    position: relative;
+    top: -10px;
+    margin: 12px;
+}
+#EE {
+    width: 3cm;
+    height: 2cm;
+    position: relative;
+    left: 5cm;
+}
+@media (min-width: 400px) and (max-width: 948px) {
+    .Menu .aa {
+        width: 7%;
+        left: 0%;
+        top: 1cm;
+    }
+    .Contas .bb {
+        width: 7%;
+        left: 81%;
+        top: 0.3cm;
+    }
+    #sign {
+        left: 54%;
+        top: 1cm;
+    }
+    #Logo {
+        width: 70%;
+        top: 1cm;
+        left: 14%;
+    }
+
+    .Loja #Lojinha {
+        top: 3cm;
+        left: 45%;
+    }
+    .l .cc {
+        width: 30%;
+        top: 1cm;
+        left: 1%;
+        margin: 5px;
+    }    
+    .l #peri {
+        width: 25%;
+        left: 1%;
+    }
+    .Loja .c {
+        top: 6cm;
+        left: 7%;
+        margin: 2px;
+    }
+    .Loja #jogo {
+        left: -1%;
+    }
+
+    .Linhas #linha1 {
+        top: 1cm;
+    }
+    .Linhas #Linha2 {
+        top: 5cm;
+    }
+
+    .Loja #Mais {
+        top: 7cm;
+        left: 35%;
+    }
+    .pp .v {
+        width: 20%;
+        margin: 3px;
+        top: 4cm;
+    }
+}
+

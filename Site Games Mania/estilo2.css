@@ -1,0 +1,76 @@
+body {
+    background-color: black;
+}
+a:hover {
+    border-bottom: white 0.5px solid;
+}
+
+.Menu .v {width: 2%;
+    height: 2%;
+}
+.Menu #Com {width: 6%;
+    height: 5%;
+    position: relative;
+    left: 45%;top: 1cm;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: white;
+}
+
+.b .h {
+    width: 20%;
+    margin: 4%;
+    top: 3cm;
+    position: relative;
+    left: 3cm;
+}
+.b #h {
+    width: 20.3%;
+    height: 5.6cm;
+}
+
+.j .o {
+    position: relative;
+    top: -18.6cm;
+    color: white;
+    margin: 7cm;
+    right: cm;
+}
+.j #l {
+    position: relative;
+    left: 0.1cm;
+}
+.j #n {
+    position: relative;
+    right: 1.4cm;
+}
+.j #m {
+    position: relative;
+    left: 1.9cm;
+}
+.j .k {
+    color: white;
+    position: relative;
+    top: -9cm;
+}
+.j #b {
+    right: 38.5cm;
+}
+.j #e {
+    left: 23.6cm;
+    align-content: center;
+    position: relative;
+    top: -9.5cm;
+    color: white;
+}
+.j #i {
+    position: relative;
+    top: -9.5cm;
+    left: 36cm;
+}
+.j #r {
+    position: relative;
+    color: white;
+    left: 5.4cm;
+    top: 9px;
+}
