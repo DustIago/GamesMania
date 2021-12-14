@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+}
+
+a:hover {
+    border-bottom: white 0.5px solid;
+}
+
+.Menu .v {
+    width: 2%;
+    height: 2%;
+}
+.Menu #Com {
+    width: 6%;
+    height: 5%;
+    position: relative;
+    left: 45%;top: 1cm;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: white;
+}
+
+.y .x {
+    width: 14%;
+    height: 6%;
+    margin: 3cm;
+    align-items: center;
+    position: relative;
+    top: 2cm;
+    left: 11.3%;
+}
